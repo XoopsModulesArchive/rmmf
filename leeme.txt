@@ -1,0 +1,39 @@
+RMSOFT MyFolder 1.2
+Módulo para la publicación de portafolios profesionales
+==================================
+
+RMSOFT MyFolder te permitirá publicar en tu sitio web un portafolios
+don tus trabajos y clientes.
+
+Mediante el módulo los usuarios podrán acceder a imágenes, descripciones
+y referencias de los trabajos que has realizado de manera muy sencilla.
+
+El módulo permite agregar varias imágenes para un mismo proyecto
+y presentarlas en forma de galerías mediante efectos muy atractivos.
+
+Puedes verlo funcionando en:
+http://www.redmexico.com.mx/modules/rmmf
+
+Nota: Este módulo esta basado en la idea original del Módulo WORKS
+(http://www.xoops-mexico.net/modules/news/article.php?storyid=39) pero
+el código ha sido reescrito por completo para hcerlo funcional
+y mas práctico.
+
+
+INSTALACIÓN
+===================================
+Sube el módulo a tu sitio xoops e instalalo desde el panel de control
+de XOOPS.
+
+Configura las opciones para un correcto funcionamiento.
+
+Recuerda que el directorio que elijas para almacenar las imágenes deberá
+contar con permisos de escritura (chmod 777).
+
+
+------------------------------------
+
+Si deseas mas módulo gratuitos puees visitar www.xoops-mexico.net.
+Temas profesionales de alta calidad para XOOPS:
+
+www.temasweb.com
